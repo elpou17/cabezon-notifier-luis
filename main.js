@@ -1,1 +1,1 @@
-// Bundle de la app Cabezon Notifier para Luis
+// Bundle de la app Cabezon Notifier para Luis. Código frontend compilado.
